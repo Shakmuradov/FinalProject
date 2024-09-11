@@ -1,0 +1,1 @@
+{"Ad": "Bahaddin", "Soyad": "Sahmuradov", "Ata Adi": "Sahib", "Dogum Tarixi": "18.Mart.1954 ", "Password": "123123123"}
